@@ -1,3 +1,5 @@
 # IvoJongmans.github.io
 
-#Smoelenboek met jQuery
+#Smoelenboek with jQuery
+
+#I've made this page on my first day at CodeGorilla
